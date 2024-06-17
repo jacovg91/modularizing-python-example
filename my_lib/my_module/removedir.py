@@ -8,4 +8,4 @@ def remove_dir_using_dbutils(directory_to_remove):
 def read_spark_table(table) -> DataFrame:
     spark = SparkSession.getActiveSession()
     df = spark.table(table)
-    return df
+    return df 
