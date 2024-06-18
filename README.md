@@ -10,7 +10,7 @@ sys.path.append("my_lib")
 ```
 - Then import functions the following way
 ```
-from <folder_name>.<module_name> import <function_name>
+from <my_lib>.<mmy_module> import <function_name> <ClassName>
 ```
 
 ![image](./cool_logo.png)
