@@ -2,7 +2,7 @@
 
 Steps to follow:
 - Move the `.py` files containing the functions you want to a seperate my_lib folder.
-- Create en empty file called `__init__.py` in the same my_lib directory. This way Python knows it is a package directory.
+- Create an empty file called `__init__.py` in the same my_lib directory. This way Python knows it is a package directory.
 - In your notebook, add the following: 
 ```
 import sys
