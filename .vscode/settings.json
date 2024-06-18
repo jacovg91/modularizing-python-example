@@ -1,5 +1,5 @@
 {
     "python.analysis.extraPaths": [
-        "./my_lib"
+        "./foo"
     ]
 }
